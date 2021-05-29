@@ -1,0 +1,6 @@
+[submodule "procgenAISC"]
+	path = procgenAISC
+	url = https://github.com/JacobPfau/procgenAISC.git
+[submodule "train-procgen-pytorch"]
+	path = train-procgen-pytorch
+	url = https://github.com/jbkjr/train-procgen-pytorch.git
