@@ -47,7 +47,7 @@ python render.py --exp_name maze2_test --env_name maze_redgem_yellowstar --distr
 ### Keys and Chests
 
 ```
-python train.py --exp_name keys_chests --env_name heist_aisc_many_chests --num_levels 100000 --distribution_mode hard --param_name hard --num_timesteps 200000000 --num_checkpoints 5 --seed 2809
+python train.py --exp_name keys_chests --env_name heist_aisc_many_chests --num_levels 100000 --distribution_mode hard --param_name hard --num_timesteps 200000000 --num_checkpoints 5 --seed 1111
 ```
 
 ```
